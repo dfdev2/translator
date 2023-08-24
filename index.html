@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./css/style.min.css" />
+    <script src="app.js" defer></script>
+    <title>languages</title>
+  </head>
+  <body>
+    <div class="header">
+      <div class="header__container">
+        <div class="header__filter">
+          <div class="header__input">
+            <input
+              autocomplete="off"
+              type="text"
+              name="form[]"
+              data-error="Ошибка"
+              placeholder="" />
+          </div>
+          <div class="header__buttons">
+            <button class="header__button"></button>
+            <button class="header__button"></button>
+            <button class="header__button"></button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <main class="main">
+      <div class="wrapper">
+        <div class="main__container">
+          <div class="main__content">
+            <div class="main__lang main-lang block">
+              <div class="main-lang__word">
+                <label for="src-word">word:</label>
+                <span id="src-word">fragen</span>
+                <div id="translation">
+                  <label for="translation">translation:</label>
+                  <span>Спрашивать</span>
+                  <label for="word-type">Тип слова:</label>
+                  <span>Глагол</span>
+                </div>
+              </div>
+            </div>
+            <div class="main__text block">
+              <div id="fraze">
+                <label for="fraze">fraze:</label>
+                <span>Lassen Sie mich fragen.</span>
+              </div>
+              <div id="tr-fraze">
+                <label for="tr-fraze">Перевод:</label>
+                <span>Можно спросить?</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </main>
+  </body>
+</html>

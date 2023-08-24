@@ -1,0 +1,67 @@
+.header {
+  // .header__container
+
+  &__container {
+  }
+
+  // .header__filter
+
+  &__filter {
+  }
+
+  // .header__input
+
+  &__input {
+  }
+
+  // .header__buttons
+
+  &__buttons {
+  }
+
+  // .header__button
+
+  &__button {
+  }
+}
+.block {
+  &:not(:last-child) {
+    margin-bottom: 0.5rem;
+  }
+}
+.main {
+  // .main__container
+
+  &__container {
+  }
+
+  // .main__content
+
+  &__content {
+    display: flex;
+    flex-direction: column;
+  }
+
+  // .main__lang
+
+  &__lang {
+  }
+
+  // .main__trans
+
+  &__trans {
+  }
+
+  // .main__text
+
+  &__text {
+  }
+}
+.wrapper {
+}
+.main-lang {
+  // .main-lang__word
+
+  &__word {
+  }
+}

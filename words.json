@@ -1,0 +1,62 @@
+[
+  {
+    "word": {
+      "id": 1,
+      "en-word": "word",
+      "de-word": "empty",
+      "ru-word": { "1": "слово" },
+      "en-type": "empty",
+      "de-type": "empty",
+      "ru-type": "существительный"
+    },
+    "time": {
+      "id": 2,
+      "en-word": "time",
+      "de-word": "empty",
+      "ru-word": { "1": "время" },
+      "en-type": "empty",
+      "de-type": "empty",
+      "ru-type": "существительный"
+    },
+    "number": {
+      "id": 3,
+      "en-word": "number",
+      "de-word": "empty",
+      "ru-word": { "1": "номер", "2": "число" },
+      "en-type": "empty",
+      "de-type": "empty",
+      "ru-type": "существительный"
+    },
+    "way": {
+      "id": 4,
+      "en-word": "way",
+      "de-word": "empty",
+      "ru-word": { "1": "дорога", "2": "путь" },
+      "en-type": "empty",
+      "de-type": "empty",
+      "ru-type": "empty"
+    },
+    "people": {
+      "id": 5,
+      "en-word": "people",
+      "de-word": "empty",
+      "ru-word": {
+        "1": "люди"
+      },
+      "en-type": "empty",
+      "de-type": "empty",
+      "ru-type": "empty"
+    },
+    "": {
+      "id": 0,
+      "en-word": "empty",
+      "de-word": "empty",
+      "ru-word": {
+        "1": "empty"
+      },
+      "en-type": "empty",
+      "de-type": "empty",
+      "ru-type": "empty"
+    }
+  }
+]

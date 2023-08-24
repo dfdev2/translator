@@ -1,0 +1,40 @@
+[
+  {
+    "word": {
+      "id": 1,
+      "en-fraze": "I know this word.",
+      "de-fraze": "de fraze empty",
+      "ru-fraze": "Я знаю это слово."
+    },
+    "time": {
+      "id": 2,
+      "en-fraze": "What time is it now?",
+      "de-fraze": "de fraze empty",
+      "ru-fraze": "Сколько сейчас времени?"
+    },
+    "number": {
+      "id": 3,
+      "en-fraze": "A huge number of people come to the party.",
+      "de-fraze": "de fraze empty",
+      "ru-fraze": "На вечеринку приходит огромное количество людей"
+    },
+    "way": {
+      "id": 4,
+      "en-fraze": " Do you know the faster way to the mail?",
+      "de-fraze": "de fraze empty",
+      "ru-fraze": "Знаете ли вы, как быстрее добраться до почты?"
+    },
+    "people": {
+      "id": 5,
+      "en-fraze": "I don’t know these people.",
+      "de-fraze": "de fraze empty",
+      "ru-fraze": "Я не знаю этих людей."
+    },
+    "word fr empty": {
+      "id": 0,
+      "en-fraze": "en fraze empty",
+      "de-fraze": "de fraze ",
+      "ru-fraze": "ru fraze "
+    }
+  }
+]
